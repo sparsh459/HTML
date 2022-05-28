@@ -745,7 +745,7 @@ console.log("Hello World")
   // console.log(myBio);
 
  
-// 6️⃣ Fat Arror Function 
+// 6️⃣ Fat Arrow Function 
 
 // 👻 Normal Way of writing Function  
 
